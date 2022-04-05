@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WuuG
 - 👀 I’m interested in Game program
-- 🌱 I’m currently learning UE
+- 🌱 I’m currently learning Cpp,UE, C#, Unity,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach wuguodong.1997@gmail.com
 <!---
